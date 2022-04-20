@@ -1,5 +1,4 @@
 <h3 align="center">17 ans , passionner d'informatique !</h3>
-<img src=https://ibb.co/NZN2x1T</img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
